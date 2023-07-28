@@ -1,1 +1,1 @@
-# Trilha Ignite Lab Rocketseat - NodeJs + NestJs
+# Ignite Lab Rocketseat - NodeJs + NestJs
