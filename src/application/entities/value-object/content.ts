@@ -5,6 +5,10 @@ export class Content {
     return this.content;
   }
 
+  public toString(): string {
+    return this.content;
+  }
+
   private validateContentLength(content: string) {
     return content.length >= 5 && content.length <= 240;
   }
